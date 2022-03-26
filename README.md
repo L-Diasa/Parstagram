@@ -49,4 +49,14 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+User can sign up to create a new account, user can log in:
+
+<img src='http://g.recordit.co/P5rBj2qIiN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+User can take a photo, add a caption, and post it to the server, and  user can pull to refresh:
+
+<img src='http://g.recordit.co/3N0rGXZOti.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+User can view the last 20 posts and load past posts infinitely:
+
+<img src='http://g.recordit.co/eC6Et1NjnR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
