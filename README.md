@@ -42,8 +42,8 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-- [x] User can pull to refresh. (1pt)
-- [x] User can load past posts infinitely. (2pts)
+- [ ] User can pull to refresh. (1pt)
+- [ ] User can load past posts infinitely. (2pts)
 
 ## Video Walkthrough
 
@@ -51,7 +51,7 @@ Here's a walkthrough of implemented user stories:
 
 User can sign up to create a new account, user can log in:
 
-<img src='http://g.recordit.co/P5rBj2qIiN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/sBjSQYWext' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 User can take a photo, add a caption, and post it to the server, and  user can pull to refresh:
 
